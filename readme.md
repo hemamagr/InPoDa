@@ -70,6 +70,6 @@ Les résultats sont affichés sous forme de graphiques pour visualiser les hasht
 
 
 
-## 👤 Auteur
+##  Auteur
 ** Graichi hemama **  
 GitHub: https://github.com/hemamagr
